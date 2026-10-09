@@ -1,26 +1,32 @@
 {
-  "id": "./",
-  "name": "Wyspa Skarbów — Mirosław Bobak",
-  "short_name": "Wyspa Skarbów",
-  "description": "Przygodowa gra HTML o odkrywaniu tropikalnej wyspy, świątyni i skarbów.",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "landscape",
-  "background_color": "#12382e",
-  "theme_color": "#12382e",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
+"id": "/wyspa-skarbow/",
+"name": "Wyspa Skarbów — Mirosław Bobak",
+"short_name": "Wyspa Skarbów",
+"description": "Przygodowa gra HTML o odkrywaniu tropikalnej wyspy, świątyni i skarbów.",
+"start_url": "/wyspa-skarbow/",
+"scope": "/wyspa-skarbow/",
+"display": "standalone",
+"orientation": "landscape",
+"background_color": "#12382E",
+"theme_color": "#12382E",
+"icons": [
+{
+"src": "/wyspa-skarbow/icons/icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "/wyspa-skarbow/icons/icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "/wyspa-skarbow/icons/apple-touch-icon.png",
+"sizes": "180x180",
+"type": "image/png",
+"purpose": "any"
+}
+]
 }
